@@ -1,3 +1,6 @@
+## Outre AI – The Future of Trading Automation 
+## Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips. 
+
 ## 🌟 Key Features
 
 - 🔹 AI-Driven Trading Agents – Automate strategies with highly customizable AI agents
