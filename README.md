@@ -22,7 +22,7 @@ Sign up now and get early access to OuTre AI-powered trading. <br>
 <br>
 
 ## 📢 Stay Connected
-🚀 Follow us for updates, insights, and AI trading innovations: ![@OuTre_AI](https://x.com/Outre_AI)
+🚀 Follow us for updates, insights, and AI trading innovations: [@OuTre_AI](https://x.com/Outre_AI)
 
 
 
