@@ -13,13 +13,11 @@
 Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK. <br>
 🔗 ![Explore OuTre SDK](https://activity-graph.herokuapp.com/graph?username=Xaven-AI-Labs&theme=react-dark)
 
-<br>
 
 ## ⏳ Be the First to Try OuTre
 Sign up now and get early access to OuTre AI-powered trading. <br>
 🔗 ![Join the Waitlist](https://outre.app/portfolio)
 
-<br>
 
 ## 📢 Stay Connected
 🚀 Follow us for updates, insights, and AI trading innovations: ![@OuTre_AI](https://x.com/Outre_AI)
