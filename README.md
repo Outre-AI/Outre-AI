@@ -10,7 +10,7 @@
 - 🔹 OuTre AI SDK – Bring AI-powered trading directly into your own platform
 
 ## 🛠 OuTre AI SDK
-Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK.
+Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK. <br>
 🔗 ![Explore OuTre SDK](https://activity-graph.herokuapp.com/graph?username=Xaven-AI-Labs&theme=react-dark)
 
 
