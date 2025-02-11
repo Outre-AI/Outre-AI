@@ -11,7 +11,7 @@
 
 ## 🛠 OuTre AI SDK
 Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK. <br>
-🔗 ![Explore OuTre SDK](https://activity-graph.herokuapp.com/graph?username=Xaven-AI-Labs&theme=react-dark)
+🔗 ![Explore OuTre SDK](https://github.com/Outre-AI/OuTre-SDK)
 
 <br>
 
