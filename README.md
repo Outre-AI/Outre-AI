@@ -1,8 +1,8 @@
 ## Outre AI – The Future of Trading Automation 
-## Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips. 
+# Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips. 
 
-## 🌟 Key Features
 
+🌟 Key Features
 - 🔹 AI-Driven Trading Agents – Automate strategies with highly customizable AI agents
 - 🔹 Multi-Model AI Compatibility – Supports OpenAI, Anthropic, and Solana-native models
 - 🔹 Solana-Powered Execution – Trade instantly with low fees and high-speed transactions
