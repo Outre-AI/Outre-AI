@@ -1,5 +1,5 @@
-## Outre AI – The Future of Trading Automation 
-# Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips. 
+# Outre AI – The Future of Trading Automation 
+Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips. 
 
 
 🌟 Key Features
