@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🌟 Key Features
+
+🔹 AI-Driven Trading Agents – Automate strategies with highly customizable AI agents
+🔹 Multi-Model AI Compatibility – Supports OpenAI, Anthropic, and Solana-native models
+🔹 Solana-Powered Execution – Trade instantly with low fees and high-speed transactions
+🔹 Real-Time Market Intelligence – AI-driven insights, sentiment analysis, and price tracking
+🔹 OuTre AI SDK – Bring AI-powered trading directly into your own platform
+
 
 <!--
 **Outre-AI/Outre-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
