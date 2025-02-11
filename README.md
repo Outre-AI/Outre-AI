@@ -2,12 +2,16 @@
 **Smarter Trades. Better Decisions. AI-Powered Trading at Your Fingertips.** 
 
 
-🌟 Key Features
+## 🌟 Key Features
 - 🔹 AI-Driven Trading Agents – Automate strategies with highly customizable AI agents
 - 🔹 Multi-Model AI Compatibility – Supports OpenAI, Anthropic, and Solana-native models
 - 🔹 Solana-Powered Execution – Trade instantly with low fees and high-speed transactions
 - 🔹 Real-Time Market Intelligence – AI-driven insights, sentiment analysis, and price tracking
 - 🔹 OuTre AI SDK – Bring AI-powered trading directly into your own platform
+
+## 🛠 OuTre AI SDK
+Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK.
+![Explore OuTre SDK](https://activity-graph.herokuapp.com/graph?username=Xaven-AI-Labs&theme=react-dark)
 
 
 <!--
