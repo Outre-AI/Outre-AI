@@ -11,13 +11,13 @@
 
 ## 🛠 OuTre AI SDK
 Empower your trading infrastructure with **AI-enhanced automation** using the OuTre SDK. <br>
-🔗 ![Explore OuTre SDK](https://github.com/Outre-AI/OuTre-SDK)
+🔗 [Explore OuTre SDK](https://github.com/Outre-AI/OuTre-SDK)
 
 <br>
 
 ## ⏳ Be the First to Try OuTre
 Sign up now and get early access to OuTre AI-powered trading. <br>
-🔗 ![Join the Waitlist](https://outre.app/portfolio)
+🔗 [Join the Waitlist](https://outre.app/portfolio)
 
 <br>
 
